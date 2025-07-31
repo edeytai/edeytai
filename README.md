@@ -18,7 +18,7 @@ I'm a passionate **Software and Mobile Developer** currently studying **Computer
 
 ### 📱 **EETN – Mobile App**  
 **[Repository →](https://github.com/edeytai/MobileApp)**  
-A smart mobile app featuring an AI assistant that recommends meals based on ingredients available at home, dietary habits, cooking time, budget, and personal goals (e.g., health, variety).  
+A smart mobile app that is still in progress which features an AI assistant that recommends meals based on ingredients available at home, dietary habits, cooking time, budget, and personal goals (e.g., health, variety).  
 🔹 Displays detailed nutritional information (calories, carbs, water, etc.)  
 🔹 Functions as a personalized food intake tracker  
 🔹 **Originally developed in Swift + Firebase**, later **migrated to Flutter (Dart)** for full cross-platform support  
@@ -26,10 +26,9 @@ A smart mobile app featuring an AI assistant that recommends meals based on ingr
 
 ---
 
-### 🎮 **EquipoLink – Multiplayer Web Game**  
+### 🎮 **The Lost Sentinel – Videogame**  
 **[Repository →](https://github.com/DanAG-Am/EquipoLink)**  
-A collaborative multiplayer browser game developed with **JavaScript**, **HTML**, **CSS**, **SQL**, and **Node.js**. The game enables players to interact in real-time and complete tasks within a shared environment.  
-🔹 Real-time interaction powered by server-side logic and WebSocket-like mechanics  
+A collaborative game developed with **JavaScript**, **HTML**, **CSS**, **SQL**, and **Node.js**.
 🔹 Backend architecture built with **Node.js** and **SQL** for storing game state and user progress  
 🔹 Frontend built using **Vanilla JavaScript**, styled with **HTML/CSS**, and designed to be responsive  
 🔹 Created as part of a full-stack academic project with emphasis on teamwork and scalability  
