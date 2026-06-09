@@ -1,20 +1,20 @@
-# 👋 Hello, I’m Emiliano Deyta  
+# Hello, I’m Emiliano Deyta  
 
 I'm a passionate **Frontend and Mobile Developer** currently studying **Computer Science and Technology** at Tecnológico de Monterrey. I focus on building **intelligent, user-centered applications** that solve real-world problems. With experience in **mobile development**, **full-stack systems**, **frontend development**, and **AI integration**, I enjoy turning ideas into scalable, modular, and well-designed solutions.  
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
-- 🎓 B.S. in Computer Science and Technology (in progress) at Tecnológico de Monterrey, Campus Santa Fe  
-- 🧠 Strong interest in **Applied Artificial Intelligence** and smart system design  
-- 🔧 Solid foundation in **mobile**, **web**, and **backend development**  
-- 🤝 Collaborator in international and interdisciplinary tech projects  
-- 💬 Open to contributing to AI-powered tools, mobile apps, and full-stack platforms  
+- B.S. in Computer Science and Technology (in progress) at Tecnológico de Monterrey, Campus Santa Fe  
+- Strong interest in **Applied Artificial Intelligence** and smart system design  
+- Solid foundation in **mobile**, **web**, and **backend development**  
+- Collaborator in international and interdisciplinary tech projects  
+- Open to contributing to AI-powered tools, mobile apps, full-stack platforms and frontend development
 
 ---
 
-## 💻 Tech Stack  
+## Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -34,8 +34,8 @@ I'm a passionate **Frontend and Mobile Developer** currently studying **Computer
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>  
 
-## 📫 Let’s Connect!  
+## Let’s Connect!  
 
 - GitHub: [github.com/edeytai](https://github.com/edeytai)  
 - Email: deytaillescasemiliano@gmail.com  
-- 🌍 Based in Mexico City  
+- Based in Mexico City  
